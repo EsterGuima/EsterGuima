@@ -2,26 +2,31 @@
   <img src="./download.gif" width="300">
 </p>
 
-## Currently Learning
+## Estudando no momento
 
 - C
-- Databases
-- Git & GitHub
-- Programming fundamentals
+- Banco de dados
+- Git e GitHub
+- Fundamentos de programação
 
-## Tech & Tools
+## Tecnologias e ferramentas
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Goals
+## Idiomas
 
-- Improve my programming skills
-- Build more projects
-- Learn more about databases
-- Grow as a Software Engineer
+- Inglês: C1 (EF SET 70/100)
+- Russo: A1 (básico)
+
+## Objetivos
+
+- Melhorar minhas habilidades em programação
+- Criar mais projetos
+- Aprender mais sobre banco de dados
+- Crescer como Engenheira de Software
 
 ---
 
-🤍 Thanks for stopping by!
+🤍 Obrigada por passar por aqui!
