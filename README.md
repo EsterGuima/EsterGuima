@@ -17,7 +17,7 @@
 
 ## Idiomas
 
-- Inglês: C1 (EF SET 70/100)
+- Inglês: C1
 - Russo: A1 (básico)
 
 ## Objetivos
