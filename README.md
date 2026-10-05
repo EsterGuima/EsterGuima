@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./download.gif" width="300">
+</p>
+
 ## Currently Learning
 
 - C
